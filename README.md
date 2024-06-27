@@ -15,7 +15,6 @@ Some technologies used:
 - Neo4j
 - NetworkX
 - Beautiful Soup
-- Selenium
 
 To see the project in action, open and run the notebooks.
 
